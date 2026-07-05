@@ -1,8 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Sadia%20Ahmad&fontSize=60&fontColor=fff&animation=fadeIn&desc=AI%20Undergrad%20@%20NUST&descSize=20&descAlignY=75" width="100%">
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Sadia+%F0%9F%91%8B;AI+Undergrad+%40+NUST;Machine+Learning+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Sadia+Ahmad+%F0%9F%91%8B;AI+Undergrad+%40+NUST;Machine+Learning+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
 
 </div>
 
@@ -38,10 +38,10 @@
 
 | Project | Description |
 |---------|-------------|
-| 🦠 [Disease Spread Simulation](https://github.com/sadia0900/repo-name) | Simulating epidemic dynamics with AI |
-| 📊 [Telco Customer Churn Prediction](https://github.com/sadia0900/repo-name) | ML model predicting customer churn |
-| 🏥 [Hospital Management System](https://github.com/sadia0900/repo-name) | Complete hospital management solution |
-| 🔐 [IoT Botnet Detection](https://github.com/sadia0900/repo-name) | Detecting botnet attacks in IoT networks |
+| 🦠 [Disease Spread Simulation](https://github.com/sadia0900/Disease-Spread-Simulation) | Simulating epidemic dynamics with AI |
+| 📊 [Telco Customer Churn Prediction](https://github.com/sadia0900/Telco-Customer-Churn-Prediction) | ML model predicting customer churn |
+| 🏥 [Hospital Management System](https://github.com/sadia0900/Hospital-Management-System) | Complete hospital management solution |
+| 🔐 [IoT Botnet Detection](https://github.com/sadia0900/IoT-Botnet-Detection) | Detecting botnet attacks in IoT networks |
 
 <br>
 
@@ -62,18 +62,25 @@
 
 <br>
 
+## 🏆 GitHub Trophies
+
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### ✨ Thanks for visiting! ✨
-
-<img src="https://komarev.com/ghpvc/?username=sadia0900&color=a855f7&style=for-the-badge" alt="Profile views">
+<img src="https://github-profile-trophy.vercel.app/?username=sadia0900&theme=tokyonight&no-frame=true&column=7&margin-w=10" width="100%">
 
 </div>
-<div align="center">
+
+<br>
+
+## 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadia0900&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="100%">
+
+<br>
 
 ## 🐍 Watch the snake eat my contributions
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sadia0900/sadia0900/output/github-snake-dark.svg">
@@ -81,3 +88,26 @@
 </picture>
 
 </div>
+
+<br>
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="60%">
+
+<img src="https://komarev.com/ghpvc/?username=sadia0900&color=a855f7&style=for-the-badge" alt="Profile views">
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%">
