@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Sadia%20Ahmad&fontSize=60&fontColor=fff&animation=fadeIn&desc=AI%20Undergrad%20@%20NUST&descSize=20&descAlignY=75" width="100%">
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1931,50:150e56&height=200&section=header&text=Sadia%20Ahmad&fontSize=60&fontColor=fff&animation=twinkling&desc=AI%20Undergrad%20@%20NUST&descSize=20&descAlignY=75" width="100%">
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Sadia+Ahmad+%F0%9F%91%8B;AI+Undergrad+%40+NUST;Machine+Learning+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
